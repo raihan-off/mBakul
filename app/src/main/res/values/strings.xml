@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mBakul</string>
+    <string name="selamatDatang">Selamat Datang Silahkan Mencatat</string>
+    <string name="deskripsi">Silahkan memasukkan hasil penjualan anda kedalam form yang telah disediakan, data nantinya akan diproses dan menampilkan hasil keuntungannya</string>
+    <string name="modal">Modal Keseluruhan (Rp)</string>
+    <string name="hasilPenjualan">Hasil Penjualan Keseluruhan (item)</string>
+    <string name="hargaJual">Harga Jual/Item (Rp)</string>
+    <string name="hitung">Hitung</string>
+    <string name="input_invalid">Form tidak boleh kosong</string>
+    <string name="total_x">Keuntungan Total : Rp. %1$s</string>
+</resources>
