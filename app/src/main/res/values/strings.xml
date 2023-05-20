@@ -8,4 +8,18 @@
     <string name="hitung">Hitung</string>
     <string name="input_invalid">Form tidak boleh kosong</string>
     <string name="total_x">Keuntungan Total : Rp. %1$s</string>
+    <string name="copyright">Project ini dibuat oleh Muhammad Raihan || Email : raihan.official230@gmail.com | NIM : 6706213033</string>
+    <string name="histori">histori</string>
+    <string name="tentang_aplikasi">About</string>
+    <string name="konfirmasi_hapus">Hapus semua histori?</string>
+    <string name="hapus_histori">Hapus Histori</string>
+    <string name="hapus">Hapus</string>
+    <string name="batal">Batal</string>
+    <string name="belum_ada_data">belum ada data</string>
+    <string name="notifikasiTersimpan">Data tersimpan di riwayat</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">mBakul=\nHasil Keuntungan: %1$s kg</string>
+    <string name="profile">Profile</string>
+    <string name="muhammad_raihan">Muhammad Raihan</string>
+    <string name="raihan_official230_gmail_com">raihan.official230@gmail.com</string>
 </resources>

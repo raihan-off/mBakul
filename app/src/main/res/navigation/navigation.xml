@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/navigation"
+    app:startDestination="@id/HitungFragment">
+
+    <fragment
+        android:id="@+id/HitungFragment"
+        android:name="org.d3if3033.mbakul.ui.hitung.HitungFragment"
+        android:label="fragment_hitung"
+        tools:layout="@layout/fragment_hitung">
+            <action
+                android:id="@+id/action_hitungFragment_to_aboutFragment"
+                app:destination="@id/aboutFragment" />
+            <action
+                android:id="@+id/action_hitungFragment_to_profileFragment"
+                app:destination="@+id/profileFragment"/>
+            <action
+                android:id="@+id/action_hitungFragment_to_historiFragment"
+                app:destination="@id/historiFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="org.d3if3033.mbakul.ui.ProfileFragment"
+        android:label="ProfileFragment"
+        tools:layout="@layout/fragment_profile"/>
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="org.d3if3033.mbakul.ui.AboutFragment"
+        android:label="AboutFragment"
+        tools:layout="@layout/fragment_about"/>
+    <fragment
+        android:id="@+id/historiFragment"
+        android:name="org.d3if3033.mbakul.ui.histori.HistoriFragment"
+        android:label="@string/histori"
+        tools:layout="@layout/fragment_histori" />
+</navigation>
