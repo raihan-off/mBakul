@@ -22,4 +22,6 @@
     <string name="profile">Profile</string>
     <string name="muhammad_raihan">Muhammad Raihan</string>
     <string name="raihan_official230_gmail_com">raihan.official230@gmail.com</string>
+    <string name="daftarBarang">Daftar Barang</string>
+    <string name="koneksi_error">Koneksi anda mengalami masalah</string>
 </resources>
